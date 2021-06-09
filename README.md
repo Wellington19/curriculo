@@ -12,3 +12,7 @@ Faculdade ALFA Umuarama / 2021 - 2022 <br>
 
 Graduado e Laureado em Análise e Desenvolvimento de Sistemas <br>
 Unipar - Universidade Paranaense / 2015 - 2017 <br>
+
+## Projetos Pessoais
+
+ * Site institucional desenvolvido para JAW Transportes / https://www.jawtransportes.com.br <br>
