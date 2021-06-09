@@ -28,3 +28,15 @@ Cianorte - PR / Março 2014 - Maio 2017 <br>
  * Hardware CH: 78h <br>
  * Administração Comercial CH: 78h <br>
  * Informática Básica CH: 60h <br>
+
+## Conhecimentos
+
+ * Delphi <br>
+ * SQL <br>
+ * HTML, CSS, JS <br>
+ * Git <br>
+ * Node js <br>
+ * Adonis js <br>
+ * React js e React Native <br>
+ * Typescript <br>
+
