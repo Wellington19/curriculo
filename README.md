@@ -40,3 +40,17 @@ Cianorte - PR / Março 2014 - Maio 2017 <br>
  * React js e React Native <br>
  * Typescript <br>
 
+## Projetos Pessoais
+
+ * Site institucional desenvolvido para JAW Transportes / https://www.jawtransportes.com.br <br>
+
+## Redes Sociais
+
+ * [Linkedin](https://www.linkedin.com/in/wellingtondeveloper) <br>
+
+## Informações Adicionais
+
+ * Laureado na graduação: Premiação concedida ao aluno com maior média geral do curso durante os 3 anos. <br>
+ * Honra ao Mérito - Certificado concedido durante a prestação de serviço militar inicial, por manter excelente atividade,       
+   comportamento modelo e desempenhar os encargos que lhe foram atribuídos, fazendo jus a esta prova de distinção por parte de
+   seus superiores hierárquicos. <br>
